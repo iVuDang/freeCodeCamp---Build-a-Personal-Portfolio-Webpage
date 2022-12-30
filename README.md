@@ -4,7 +4,7 @@
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage
 
 ## Preview:
-<img src="https://raw.githubusercontent.com/iVuDang/freeCodeCamp-Build-a-Technical-Documentation-Page/main/technical%20doc%20preview.png" width=100% height=100%>
+<img src="https://raw.githubusercontent.com/iVuDang/freeCodeCamp---Build-a-Personal-Portfolio-Webpage/main/Build%20personal%20portfolio%20preview.png" width=100% height=100%>
 
 ## Technologies: 
 * HTML
